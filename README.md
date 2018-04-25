@@ -1,4 +1,7 @@
 # csvToJSON Converter
+Convert csv file to JSON.
+It is also possible to use other delimiters like | - / etc.
+
 ## INSTRUCTION:
 ```
 1.Put csv file in same folder as csvToJson.js
